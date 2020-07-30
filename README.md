@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### 🔭 I’m currently working on ...
-  - [Depth](https://github.com/elijahjorell/diagramming-web-app) - A system which aims to improve the knowledge storage capabilities of traditional flow charts/diagrams
+  - [Depth](https://github.com/elijahjorell/diagramming-web-app) - a system which aims to improve the knowledge storage capabilities of traditional flow charts/diagrams
 
 #### 🌱 I’m currently learning ...
   - JavaScript/HTML/CSS
