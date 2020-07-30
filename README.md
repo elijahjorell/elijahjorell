@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   - JavaScript/HTML/CSS
 
 ### 👯 I’m looking to collaborate on ...
-  - Web app projects (interested in any anything: finance, science, productivity etc.)
+  - Web app projects (interested in any field: finance, science, productivity etc.)
 
 
