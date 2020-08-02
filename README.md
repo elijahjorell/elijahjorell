@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - [Depth](https://github.com/elijahjorell/diagramming-web-app) - a system which aims to improve the knowledge storage capabilities of traditional flow charts/diagrams
 
 ### 🌱 I’m currently learning ...
-  - JavaScript/HTML/CSS
+  - JavaScript/Node.js
 
 ### 👯 I’m looking to collaborate on ...
   - Web app projects (interested in any field: finance, science, productivity etc.)
