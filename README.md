@@ -21,7 +21,3 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning ...
   - JavaScript/Node.js
 
-### 👯 I’m looking to collaborate on ...
-  - Web app projects (interested in any field: finance, science, productivity etc.)
-
-
