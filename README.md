@@ -14,10 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔭 I’m currently working on ...
-  - The Odin Project - Node.js
-  - [Depth](https://github.com/elijahjorell/diagramming-web-app) - a system which aims to improve the knowledge storage capabilities of traditional flow charts/diagrams
-
-### 🌱 I’m currently learning ...
-  - JavaScript/Node.js
-
